@@ -1,0 +1,16 @@
+Rick and Morty API - Analize!!! Count... Filter...
+Create function for random product... For rozetka
+
+{
+    name: 'name',
+    desc: 'desc',
+    price: 100,
+    available: true,
+    cat: 'Category',
+    amount: 12,
+}
+
+Create func add to cart into LocalStorage
+
+addProductToCart(1)
+addProductToCart(product)
